@@ -15,7 +15,7 @@ I appreciate what the package does and how it organizes the code but I also supp
 
 Mostly just appreciated the discussion on dynamic styling.
 
-This concludes this project for this topic, though my understanding we utilize a version of it for the next discussion on debugging a react application.
+This concludes this project for this topic, though my understanding is we utilize a version of it for the next discussion on debugging a react application.
 
 Thanks for checking it out!
 
